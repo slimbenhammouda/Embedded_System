@@ -31,7 +31,7 @@ int main()
 	case'/':
 	{
 		if(num2==0)
-			printf("Error!!! please enter a devider !=0");
+			printf("Error!!! please enter a devidor !=0");
 		else
 		    printf("%f %c %f=%f",num1,opr,num2,num1/num2);
 	}
