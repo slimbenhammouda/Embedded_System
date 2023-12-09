@@ -1,8 +1,8 @@
-/*
- * Ex1_sum_of_2_matrix.c
- *Project:sum of 2 matrix.
- *  Created on: Dec 9, 2023
- *      Author: R I B
+/*#################################################
+ *      Project:sum of 2 matrix.
+ *      Created on: Dec 9, 2023
+ *      Author:slim benhammouda
+ *#################################################
  */
 
 #include<stdio.h>
