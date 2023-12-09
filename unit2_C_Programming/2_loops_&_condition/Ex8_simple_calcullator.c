@@ -2,7 +2,7 @@
  * ################################
  * Ex8_simple_calcullator.c
  *      Project:simple calculator.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * ################################
  */
