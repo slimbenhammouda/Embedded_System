@@ -2,7 +2,7 @@
  * #####################################################
  * Ex1_check_whether_a_number_is_even_or_odd.c
  *      Project:check whether a number is even or odd.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * #####################################################
  */
