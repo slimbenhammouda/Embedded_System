@@ -2,7 +2,7 @@
  * #####################################################
  * Ex5_check_character_is_alphabet_or_not.c
  *      Project:check character is an alphabet or not.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * #####################################################
  */
