@@ -2,7 +2,7 @@
  * ################################
  * Ex8_simple_calcullator.c
  *      Project:simple calculator.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * ################################
  */
@@ -31,7 +31,7 @@ int main()
 	case'/':
 	{
 		if(num2==0)
-			printf("Error!!! please enter a devider !=0");
+			printf("Error!!! please enter a devidor !=0");
 		else
 		    printf("%f %c %f=%f",num1,opr,num2,num1/num2);
 	}

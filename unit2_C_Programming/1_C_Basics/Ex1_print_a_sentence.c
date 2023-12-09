@@ -1,7 +1,7 @@
 /*
  * ######################################
  *  main.c
- *  project: print a sentence.
+ *  project:print a sentence.
  *  Created on: Nov 27, 2023.
  *  Author:slim benhammouda.
  *  #####################################

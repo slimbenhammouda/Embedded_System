@@ -2,7 +2,7 @@
  * ##############################################################
  * Ex2_check_whether_an_alphabet_is_vowel_or_consonant.c
  *      project:check whether an alphabet is vowel or consonant.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * ##############################################################
  */

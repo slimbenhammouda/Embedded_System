@@ -2,7 +2,7 @@
  * #######################################
  * Ex7_find_factorial_of_number.c
  *      Project:find factorial of number.
- *      Created on: Nov 28, 2023
+ *      Created on: Nov 28, 2023 
  *      Author:Slim benhammouda.
  * #######################################
  */
