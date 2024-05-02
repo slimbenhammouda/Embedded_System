@@ -243,7 +243,7 @@ void get_node_from_end(int index)
 		p_Ref = p_Ref->p_Next;
 	}
 
-	print_plus("\n Record Index from end zero-based");
+	print_plus("\n Record Index (%d) from end :",index);
 	print_plus("\n\t ID : %d",p_Main->Student.ID);
 	print_plus("\n\t Name : %s",p_Main->Student.Name);
 	print_plus("\n\t Height : %0.2f\n",p_Main->Student.height);
